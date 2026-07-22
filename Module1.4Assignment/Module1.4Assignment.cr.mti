@@ -1,0 +1,22 @@
+C:/Users/yashi/Desktop/DigitalCircuitDesign/Module1.4Assignment/Part3.v {1 {vlog -work work -stats=none {C:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.4Assignment\Part3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module comb_cont_bool
+
+Top level modules:
+	comb_cont_bool
+
+} {} {}} C:/Users/yashi/Desktop/DigitalCircuitDesign/Module1.4Assignment/Part1.v {1 {vlog -work work -stats=none {C:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.4Assignment\Part1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module comb_struct_bool
+
+Top level modules:
+	comb_struct_bool
+
+} {} {}} C:/Users/yashi/Desktop/DigitalCircuitDesign/Module1.4Assignment/Part2.v {1 {vlog -work work -stats=none {C:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.4Assignment\Part2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module comb_struct_bool_nand
+
+Top level modules:
+	comb_struct_bool_nand
+
+} {} {}}
