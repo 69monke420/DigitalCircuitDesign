@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vlogic_gen_behavioral
+!s110 1784871606
+!i10b 1
+!s100 GHWLcB>d63`>5mml?3I<Q2
+IUn:ODRkI:ZGaPMb`l<an^0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/yashi/Desktop/DigitalCircuitDesign/Module1.5Assignment
+w1784871600
+8C:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.5Assignment\logic_gen_behavioral-project.v
+FC:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.5Assignment\logic_gen_behavioral-project.v
+L0 12
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1784871606.000000
+!s107 C:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.5Assignment\logic_gen_behavioral-project.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.5Assignment\logic_gen_behavioral-project.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vlogic_gen_structural
+!s110 1784871613
+!i10b 1
+!s100 4NUhJH96[kYz:h2WQ1foM3
+IF`Q0k=AogCdIERfP<oE?B3
+R0
+R1
+w1784870600
+8C:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.5Assignment\logic_gen_structural-project.v
+FC:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.5Assignment\logic_gen_structural-project.v
+L0 10
+R2
+r1
+!s85 0
+31
+!s108 1784871613.000000
+!s107 C:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.5Assignment\logic_gen_structural-project.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.5Assignment\logic_gen_structural-project.v|
+!i113 1
+R3
+R4
+vlogic_gen_tb
+!s110 1784872791
+!i10b 1
+!s100 FhBe;93BlJjBfKFA912mg1
+I^5OYlK2`YJnz0QLV0@`9`0
+R0
+R1
+w1784872785
+8C:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.5Assignment\logic_gen_tb-project.v
+FC:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.5Assignment\logic_gen_tb-project.v
+L0 9
+R2
+r1
+!s85 0
+31
+!s108 1784872791.000000
+!s107 C:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.5Assignment\logic_gen_tb-project.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.5Assignment\logic_gen_tb-project.v|
+!i113 1
+R3
+R4
