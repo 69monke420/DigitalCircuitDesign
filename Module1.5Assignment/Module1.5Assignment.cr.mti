@@ -12,4 +12,11 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	logic_gen_behavioral
 
+} {} {}} C:/Users/yashi/Desktop/DigitalCircuitDesign/Module1.5Assignment/logic_gen_tb-project.v {1 {vlog -work work -stats=none {C:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.5Assignment\logic_gen_tb-project.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module logic_gen_tb
+
+Top level modules:
+	logic_gen_tb
+
 } {} {}}
