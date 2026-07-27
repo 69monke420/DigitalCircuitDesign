@@ -1,0 +1,15 @@
+C:/Users/yashi/Desktop/DigitalCircuitDesign/Module1.6Assignment2/ssd_phone_number.v {1 {vlog -work work -stats=none {C:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.6Assignment2\ssd_phone_number.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ssd_phone_number
+
+Top level modules:
+	ssd_phone_number
+
+} {} {}} C:/Users/yashi/Desktop/DigitalCircuitDesign/Module1.6Assignment2/Part1.v {1 {vlog -work work -stats=none C:/Users/yashi/Desktop/DigitalCircuitDesign/Module1.6Assignment2/Part1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ssd_driver
+
+Top level modules:
+	ssd_driver
+
+} {} {}}

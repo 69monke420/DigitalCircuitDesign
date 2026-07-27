@@ -3,7 +3,7 @@ module ssd_phone_number (
     output reg [3:0] phone_digit,
     output [6:0] ssd_out);
 
-    wire [31:0] mux_in = 32'h408F1290; 
+    wire [31:0] mux_in = 32'408F1290; 
     
     always @(*) begin
         phone_digit = mux_in[selector_in * 4 +: 4];

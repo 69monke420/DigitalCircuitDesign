@@ -9,23 +9,65 @@ z2
 cModel Technology
 dC:/intelFPGA/18.1
 vssd_driver
-!s110 1785129512
+Z0 !s110 1785180623
 !i10b 1
 !s100 IHffJRbO^mg0N2^@<?FZK3
 IoKQf278YHLR:h9A`^e@SX3
-VDg1SIo80bB@j0V0VzS_@n1
-dC:/Users/yashi/Desktop/DigitalCircuitDesign/Module1.6Assignment2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/yashi/Desktop/DigitalCircuitDesign/Module1.6Assignment2
 w1785129506
 8C:/Users/yashi/Desktop/DigitalCircuitDesign/Module1.6Assignment2/Part1.v
 FC:/Users/yashi/Desktop/DigitalCircuitDesign/Module1.6Assignment2/Part1.v
 L0 1
-OV;L;10.5b;63
+Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-!s108 1785129512.000000
+Z4 !s108 1785180623.000000
 !s107 C:/Users/yashi/Desktop/DigitalCircuitDesign/Module1.6Assignment2/Part1.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yashi/Desktop/DigitalCircuitDesign/Module1.6Assignment2/Part1.v|
 !i113 1
-o-work work
-tCvgOpt 0
+Z5 o-work work
+Z6 tCvgOpt 0
+vssd_phone_number
+R0
+!i10b 1
+!s100 eCXAWX>nU4^DlKZKo@oYG0
+ISK3@4VojhDAVmCM^JH<351
+R1
+R2
+w1785178542
+8C:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.6Assignment2\ssd_phone_number.v
+FC:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.6Assignment2\ssd_phone_number.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.6Assignment2\ssd_phone_number.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.6Assignment2\ssd_phone_number.v|
+!i113 1
+R5
+R6
+vssd_phone_number_tb
+R0
+!i10b 1
+!s100 93?AESNE0PXE90PlMU<@H0
+IG^Fiz<OGB2a<Bo:o;ASR_2
+R1
+R2
+w1785180615
+8C:/Users/yashi/Desktop/DigitalCircuitDesign/Module1.6Assignment2/ssd_phone_number_tb.v
+FC:/Users/yashi/Desktop/DigitalCircuitDesign/Module1.6Assignment2/ssd_phone_number_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/yashi/Desktop/DigitalCircuitDesign/Module1.6Assignment2/ssd_phone_number_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yashi/Desktop/DigitalCircuitDesign/Module1.6Assignment2/ssd_phone_number_tb.v|
+!i113 1
+R5
+R6
