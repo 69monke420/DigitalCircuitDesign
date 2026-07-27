@@ -1,0 +1,8 @@
+C:/Users/yashi/Desktop/DigitalCircuitDesign/Module1.6Assignment3/data_plexer_en.v {1 {vlog -work work -stats=none {C:\Users\yashi\Desktop\DigitalCircuitDesign\Module1.6Assignment3\data_plexer_en.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module data_plexer_en
+
+Top level modules:
+	data_plexer_en
+
+} {} {}}
