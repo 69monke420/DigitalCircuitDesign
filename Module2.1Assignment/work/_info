@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vJKff
+Z0 !s110 1785256782
+!i10b 1
+!s100 HXlXiTMM6o=z:2FWRmYXJ1
+I[lPffL^F^6h1ho<oZYK@61
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.1Assignment
+w1785255743
+8C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.1Assignment/JKff.v
+FC:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.1Assignment/JKff.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1785256782.000000
+!s107 C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.1Assignment/JKff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.1Assignment/JKff.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@j@kff
+vJKff_tb
+R0
+!i10b 1
+!s100 d:RiNUPRfIDVH7d22Q=1H0
+IIzkkK01G2AfolJZVSkB303
+R1
+R2
+w1785256762
+8C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.1Assignment/JKff_tb-project.v
+FC:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.1Assignment/JKff_tb-project.v
+L0 10
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.1Assignment/JKff_tb-project.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.1Assignment/JKff_tb-project.v|
+!i113 1
+R5
+R6
+n@j@kff_tb

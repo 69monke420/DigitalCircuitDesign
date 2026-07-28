@@ -1,0 +1,70 @@
+`timescale 1ns / 1ns
+
+/* JKff_tb.v 
+*      Test a JK flip-flop 
+*      with async reset and write enable.
+*/
+
+
+//Part 2:  Your testbench design must use the assignment API definition:
+module JKff_tb(
+    output wire Q
+    );
+
+    //Simulation signals
+    reg clk;
+    reg [1:0] JK = 2'b00;
+    reg en = 1'b0;   //for enable
+    reg clr = 1'b1;  //for reset
+    
+    //Generate the clock waveform
+    //   Set 10ns period and 50% duty cycle
+    initial begin
+	clk = 0;
+	forever
+	    begin
+		#5 clk = ~clk;
+	    end
+    end
+
+
+    //Instantiate a JKff modules, called UUT.   
+    //   Set clk, enable, reset, J and K to this module's  simulation signals.
+    //       For J and K make sure to slice the correct bit 
+    //       (J is most significant of JK and K is least significant).
+    //   Generate Q output.   
+    JKff UUT(.clk(clk), .J(JK[1]), .K(JK[0]), .enable(en), .reset(clr), .Q(Q));
+
+
+   //Simulate your design using the following stimulus.
+   initial begin
+     #20           //Update input
+        JK = 2'b10;
+        $display("%b", JK);
+     #20           //Enable 
+        en = 1'b1;
+     #20           //Update input
+        JK = 2'b10;
+        $display("%b", JK);
+     #20           //Update input
+        JK = 2'b11;
+     #20           //Update input
+        JK = 2'b01;        
+        $display("%b", JK);
+     #20           //clear output
+        clr = 1'b0;
+        JK = 2'b10;
+        $display("%b", JK);
+     #20           //unclear output
+        clr = 1'b1;
+     #10           //Update input
+        JK = 2'b00;
+        $display("%b", JK);
+     #10           //Update input
+        JK = 2'b11;    
+        $display("%b", JK);      
+     #20
+        JK = 2'b01;
+           
+   end
+endmodule //JKff_tb
