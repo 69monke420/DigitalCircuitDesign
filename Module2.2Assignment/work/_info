@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vcounter_nbit_updown
+!s110 1785276693
+!i10b 1
+!s100 VEgc;EizjWTh12mm^0a[81
+I4HB;YV8LWUS[`E85YL;Ui3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.2Assignment
+w1785275919
+8C:\Users\yashi\Desktop\DigitalCircuitDesign\Module2.2Assignment\counter_nbit_updown-project.v
+FC:\Users\yashi\Desktop\DigitalCircuitDesign\Module2.2Assignment\counter_nbit_updown-project.v
+L0 9
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1785276693.000000
+!s107 C:\Users\yashi\Desktop\DigitalCircuitDesign\Module2.2Assignment\counter_nbit_updown-project.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\yashi\Desktop\DigitalCircuitDesign\Module2.2Assignment\counter_nbit_updown-project.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vcounter_nbit_updown_tb
+!s110 1785352058
+!i10b 1
+!s100 7CA96dR3ioA?dEE2zT7<Y3
+IUhLbAa`oUFbi`>?93_0k`1
+R0
+R1
+w1785352051
+8C:\Users\yashi\Desktop\DigitalCircuitDesign\Module2.2Assignment\counter_nbit_updown_tb-project.v
+FC:\Users\yashi\Desktop\DigitalCircuitDesign\Module2.2Assignment\counter_nbit_updown_tb-project.v
+L0 12
+R2
+r1
+!s85 0
+31
+!s108 1785352058.000000
+!s107 C:\Users\yashi\Desktop\DigitalCircuitDesign\Module2.2Assignment\counter_nbit_updown_tb-project.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\yashi\Desktop\DigitalCircuitDesign\Module2.2Assignment\counter_nbit_updown_tb-project.v|
+!i113 1
+R3
+R4
