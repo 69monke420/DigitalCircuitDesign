@@ -1,0 +1,136 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vclock_divider
+Z0 !s110 1785558310
+!i10b 1
+!s100 m@QaL6__ni=OUT_Ol[G?J3
+I`XNl^RM<Lmj2J<]<jR:Zc2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1
+w1785540520
+8C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/clock_divider.v
+FC:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/clock_divider.v
+L0 10
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1785558310.000000
+!s107 C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/clock_divider.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/clock_divider.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vcounter_nbit
+!s110 1785558862
+!i10b 1
+!s100 Za0VfFSE0SV@8aAolM6LG3
+IW64FLV_KU=XM;LJYmonU]3
+R1
+R2
+w1785558803
+8C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/counter_nbit.v
+FC:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/counter_nbit.v
+L0 9
+R3
+r1
+!s85 0
+31
+!s108 1785558862.000000
+!s107 C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/counter_nbit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/counter_nbit.v|
+!i113 1
+R5
+R6
+vdata_plexer_en
+R0
+!i10b 1
+!s100 6zBYY`6oO5`eW6;E^z59^1
+IZJndA>S?^f^Wjh3@ImZLD0
+R1
+R2
+w1785183218
+8C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/data_plexer_en.v
+FC:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/data_plexer_en.v
+L0 9
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/data_plexer_en.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/data_plexer_en.v|
+!i113 1
+R5
+R6
+vtimer_60
+R0
+!i10b 1
+!s100 Z5a`0H@6JV3@a:ca0Yg2I2
+Ic:KSk6a:Ej5MIo:YWfCKn2
+R1
+R2
+w1785540907
+8C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/timer_60.v
+FC:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/timer_60.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/timer_60.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/timer_60.v|
+!i113 1
+R5
+R6
+vtop_60
+Z7 !s110 1785558309
+!i10b 1
+!s100 QM:j]4>6aMKNYNY`:M>9a2
+I:kK^BmnX6L;jKZfK`o@YX3
+R1
+R2
+w1785545911
+8C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/top_60-project.v
+FC:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/top_60-project.v
+L0 9
+R3
+r1
+!s85 0
+31
+Z8 !s108 1785558309.000000
+!s107 C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/top_60-project.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/top_60-project.v|
+!i113 1
+R5
+R6
+vtop_60_tb
+R7
+!i10b 1
+!s100 @aLNe;VG9bECcjUzD609]1
+I9EMfOi=meH?ZGE;m[f14;1
+R1
+R2
+w1785558148
+8C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/top_60_tb-project.v
+FC:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/top_60_tb-project.v
+L0 12
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/top_60_tb-project.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment1/top_60_tb-project.v|
+!i113 1
+R5
+R6
