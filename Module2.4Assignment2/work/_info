@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vclock_divider
+Z0 !s110 1785792010
+!i10b 1
+!s100 odZP4D_<`FWPAI;JHAaL>0
+ID]b9S3:3CCQ`?7NkYiUJ@0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment2
+w1785699660
+8C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment2/clock_divider.v
+FC:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment2/clock_divider.v
+L0 10
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1785792010.000000
+!s107 C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment2/clock_divider.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment2/clock_divider.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vcounter_nbit_updown
+R0
+!i10b 1
+!s100 VEgc;EizjWTh12mm^0a[81
+ICm<F648hdhN0L5d2Uf>FB2
+R1
+R2
+w1785275919
+8C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment2/counter_nbit_updown-project.v
+FC:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment2/counter_nbit_updown-project.v
+L0 9
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment2/counter_nbit_updown-project.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/yashi/Desktop/DigitalCircuitDesign/Module2.4Assignment2/counter_nbit_updown-project.v|
+!i113 1
+R5
+R6
+vtimer_minsec
+R0
+!i10b 1
+!s100 4SoQgYgJ]4beDVI<G`6[@3
+Ib_WF<7Aj2UJMa1>^RBdh_2
+R1
+R2
+w1785791416
+8C:\Users\yashi\Desktop\DigitalCircuitDesign\Module2.4Assignment2\timer_minsec-project.v
+FC:\Users\yashi\Desktop\DigitalCircuitDesign\Module2.4Assignment2\timer_minsec-project.v
+L0 13
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\yashi\Desktop\DigitalCircuitDesign\Module2.4Assignment2\timer_minsec-project.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\yashi\Desktop\DigitalCircuitDesign\Module2.4Assignment2\timer_minsec-project.v|
+!i113 1
+R5
+R6
+vtimer_minsec_tb
+R0
+!i10b 1
+!s100 bEBm040J3Z41mCSeVh=LW3
+I8A68H5DbcRAdZm56SDDS[3
+R1
+R2
+w1785791993
+8C:\Users\yashi\Desktop\DigitalCircuitDesign\Module2.4Assignment2\timer_minsec_tb-project.v
+FC:\Users\yashi\Desktop\DigitalCircuitDesign\Module2.4Assignment2\timer_minsec_tb-project.v
+L0 14
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\yashi\Desktop\DigitalCircuitDesign\Module2.4Assignment2\timer_minsec_tb-project.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\yashi\Desktop\DigitalCircuitDesign\Module2.4Assignment2\timer_minsec_tb-project.v|
+!i113 1
+R5
+R6
