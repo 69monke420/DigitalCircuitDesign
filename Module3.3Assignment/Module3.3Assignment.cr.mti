@@ -1,0 +1,29 @@
+C:/Users/yashi/Desktop/DigitalCircuitDesign/Module3.3Assignment/waveform_gen_behav.v {1 {vlog -work work -stats=none {C:\Users\yashi\Desktop\DigitalCircuitDesign\Module3.3Assignment\waveform_gen_behav.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module waveform_gen_behav
+
+Top level modules:
+	waveform_gen_behav
+
+} {} {}} C:/Users/yashi/Desktop/DigitalCircuitDesign/Module3.3Assignment/waveform_gen_fsm_tb-project.v {1 {vlog -work work -stats=none {C:\Users\yashi\Desktop\DigitalCircuitDesign\Module3.3Assignment\waveform_gen_fsm_tb-project.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module waveform_gen_fsm_tb
+
+Top level modules:
+	waveform_gen_fsm_tb
+
+} {} {}} C:/Users/yashi/Desktop/DigitalCircuitDesign/Module3.3Assignment/waveform_gen_struct.v {1 {vlog -work work -stats=none {C:\Users\yashi\Desktop\DigitalCircuitDesign\Module3.3Assignment\waveform_gen_struct.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module waveform_gen_struct
+
+Top level modules:
+	waveform_gen_struct
+
+} {} {}} C:/Users/yashi/Desktop/DigitalCircuitDesign/Module3.3Assignment/Dff.v {1 {vlog -work work -stats=none {C:\Users\yashi\Desktop\DigitalCircuitDesign\Module3.3Assignment\Dff.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Dff
+
+Top level modules:
+	Dff
+
+} {} {}}

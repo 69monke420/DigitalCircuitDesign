@@ -1,0 +1,95 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vDff
+Z0 !s110 1785990874
+!i10b 1
+!s100 9?Oc:3OA]@[ABDJV7C>1H2
+ISbm[zWEmD?:NV<h?BlNGE1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/yashi/Desktop/DigitalCircuitDesign/Module3.3Assignment
+w1785869387
+8C:\Users\yashi\Desktop\DigitalCircuitDesign\Module3.3Assignment\Dff.v
+FC:\Users\yashi\Desktop\DigitalCircuitDesign\Module3.3Assignment\Dff.v
+L0 9
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1785990874.000000
+!s107 C:\Users\yashi\Desktop\DigitalCircuitDesign\Module3.3Assignment\Dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\yashi\Desktop\DigitalCircuitDesign\Module3.3Assignment\Dff.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@dff
+vwaveform_gen_behav
+R0
+!i10b 1
+!s100 gn_QRJ3T^nQO`o?eIKK9Z2
+I]g8DEUdnIT2<QjH3_VgoM0
+R1
+R2
+w1785978501
+8C:\Users\yashi\Desktop\DigitalCircuitDesign\Module3.3Assignment\waveform_gen_behav.v
+FC:\Users\yashi\Desktop\DigitalCircuitDesign\Module3.3Assignment\waveform_gen_behav.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\yashi\Desktop\DigitalCircuitDesign\Module3.3Assignment\waveform_gen_behav.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\yashi\Desktop\DigitalCircuitDesign\Module3.3Assignment\waveform_gen_behav.v|
+!i113 1
+R5
+R6
+vwaveform_gen_fsm_tb
+R0
+!i10b 1
+!s100 l37[6JFnP0Z1DVCJmddzg1
+I^5e]`Z<m4PV5U>g;fQCE`0
+R1
+R2
+w1785979091
+8C:\Users\yashi\Desktop\DigitalCircuitDesign\Module3.3Assignment\waveform_gen_fsm_tb-project.v
+FC:\Users\yashi\Desktop\DigitalCircuitDesign\Module3.3Assignment\waveform_gen_fsm_tb-project.v
+L0 11
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\yashi\Desktop\DigitalCircuitDesign\Module3.3Assignment\waveform_gen_fsm_tb-project.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\yashi\Desktop\DigitalCircuitDesign\Module3.3Assignment\waveform_gen_fsm_tb-project.v|
+!i113 1
+R5
+R6
+vwaveform_gen_struct
+R0
+!i10b 1
+!s100 UiRHjH25?`6PSf<Va6VE51
+I5;?hHHjDT;3k?;_;OR@C51
+R1
+R2
+w1785990867
+8C:\Users\yashi\Desktop\DigitalCircuitDesign\Module3.3Assignment\waveform_gen_struct.v
+FC:\Users\yashi\Desktop\DigitalCircuitDesign\Module3.3Assignment\waveform_gen_struct.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\yashi\Desktop\DigitalCircuitDesign\Module3.3Assignment\waveform_gen_struct.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\yashi\Desktop\DigitalCircuitDesign\Module3.3Assignment\waveform_gen_struct.v|
+!i113 1
+R5
+R6
